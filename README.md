@@ -11,3 +11,6 @@ In the project directory, you can run:
 1. yarn install  
 ##### （start the project）
 2. yarn start 
+
+### Demo
+http://www.giphy.com/gifs/YXQZzBqf0i1jF3AEc8
