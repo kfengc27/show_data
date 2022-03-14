@@ -13,4 +13,5 @@ In the project directory, you can run:
 2. yarn start 
 
 ### Demo
-http://www.giphy.com/gifs/YXQZzBqf0i1jF3AEc8
+![Demo](http://www.giphy.com/gifs/YXQZzBqf0i1jF3AEc8)
+
