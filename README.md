@@ -11,5 +11,5 @@ Email: chengbin.feng@outlook.com
 2. yarn start 
 
 ### Demo
-![Demo](https://media2.giphy.com/media/YXQZzBqf0i1jF3AEc8/giphy.gif)
+![Demo](https://cdn.shopify.com/s/files/1/0554/4611/0357/files/output.gif)
 
