@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+## About me
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Author: Chengbin Feng 
+Date: 2022.03.15 
+Email: chengbin.feng@outlook.com 
 
 ### How to start 
 ##### （install dependency）
